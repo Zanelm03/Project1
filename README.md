@@ -1,2 +1,3 @@
 # Project1
 ...
+My name is Zane Motley and I'm a senior here at Albany State University. For this project, I will be coding and possibly be doing UI design. I am excited to take on the challenges of this project!
